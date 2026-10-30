@@ -108,7 +108,7 @@ Association-rule mining (support and **lift**) was used to find products that ar
 
 ### By department
 
-![Rules by department](images/10_rules_departments.png)
+![Rules by department](images/10_rules_department.png)
 <!-- IMAGE 10: "Departmental Rules" page (Produce, Beverages, Frozen rule charts, side by side or as a 3-image strip) -->
 
 | Department | Strongest pairing | Approx. lift | Impact |
