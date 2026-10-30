@@ -148,16 +148,15 @@ Association-rule mining (support and **lift**) was used to find products that ar
 ├── README.md
 └── images/
     ├── 01_homepage.png
-    ├── 02_conclusion.png
-    ├── 03_data_model.png
-    ├── 04_data_kpis.png
-    ├── 05_dashboard.png
-    ├── 06_basket_analysis.png
-    ├── 07_department_segmentation.png
-    ├── 08_temporal_patterns.png
-    ├── 09_rules_overall.png
-    ├── 10_rules_basket_size.png
-    └── 11_rules_departments.png
+    ├── 02_data_model.png
+    ├── 03_data_kpis.png
+    ├── 04_dashboard.png
+    ├── 05_basket_analysis.png
+    ├── 06_department_segmentation.png
+    ├── 07_temporal_patterns.png
+    ├── 08_rules_overall.png
+    ├── 09_rules_basket_size.png
+    └── 10_rules_departments.png
 ```
 
 ## How to Use
