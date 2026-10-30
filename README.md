@@ -164,4 +164,4 @@ Association-rule mining (support and **lift**) was used to find products that ar
 
 ## Author
 
-**[Your Name]** · [LinkedIn](https://linkedin.com/in/your-handle) · [Portfolio](https://your-site.com)
+**[Mathew Maranan]**
