@@ -134,8 +134,8 @@ Association-rule mining (support and **lift**) was used to find products that ar
 ## Tools
 
 - **Power BI Desktop**: modeling, DAX measures, interactive dashboard
-- **Python**: association-rule mining (support, lift) [add library, e.g. mlxtend]
-- **SQL schema**: source tables shown in the ERD [add database, e.g. MySQL]
+- **Python**: association-rule mining (support, lift) 
+- **SQL schema**: source tables shown in the ERD
 
 ## Repository Structure
 
